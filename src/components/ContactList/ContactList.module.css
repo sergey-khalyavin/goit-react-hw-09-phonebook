@@ -1,0 +1,21 @@
+.list {
+  padding: 0px;
+}
+
+.enter {
+  transform: scale(0.1);
+}
+
+.enter-active {
+  transform: scale(1);
+  transition: transform 250ms linear;
+}
+
+.exit {
+  transform: scale(1);
+}
+
+.exit-active {
+  transform: scale(0.1);
+  transition: transform 250ms linear;
+}

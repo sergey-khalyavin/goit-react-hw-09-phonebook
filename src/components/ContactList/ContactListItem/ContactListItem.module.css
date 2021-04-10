@@ -1,0 +1,22 @@
+.item {
+  display: flex;
+  width: 400px;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-size: 16px;
+  box-shadow: 0 3px 6px rgba(0, 0, 0, 0.16), 0 3px 6px rgba(0, 0, 0, 0.23);
+  background-color: #4db6ac;
+  padding-bottom: 3px;
+  padding-top: 3px;
+}
+
+.sect__btn {
+  display: flex;
+  align-items: center;
+  margin-right: 10px;
+}
+
+.name {
+  margin-left: 10px;
+}
